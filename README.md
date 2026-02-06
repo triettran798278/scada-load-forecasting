@@ -28,11 +28,8 @@ The forecasting pipeline includes:
 - MAPE
 
 ## 📂 Repository Structure
-data/           # SCADA dataset (not uploaded if confidential)
-
-notebooks/      # Experiments and exploration
-
-src/            # Training and forecasting scripts
-
-results/        # Model outputs and evaluation
-docs/           # Thesis notes and references
+- data/           # SCADA dataset (not uploaded if confidential)
+- notebooks/      # Experiments and exploration
+- src/            # Training and forecasting scripts
+- results/        # Model outputs and evaluation
+- docs/           # Thesis notes and references
